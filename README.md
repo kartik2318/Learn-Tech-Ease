@@ -61,8 +61,8 @@ Contributions are welcome! If you’d like to improve the project, please follow
 ---
 
 ## 📬 Contact
-If you have any questions or suggestions, feel free to reach out:
-📧 Email: kartikpatare1823@gmail.com   
+If you have any questions or suggestions, feel free to reach out:  
+📧 Email: kartikpatare1823@gmail.com  
 💼 LinkedIn: [kartik-patare](https://www.linkedin.com/in/kartik-patare-63b4b4256/)
 
 ---
